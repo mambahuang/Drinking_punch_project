@@ -8,18 +8,9 @@
 * Logitech C270 Webcam
 * 128GB Micro SD card
 
-![image](https://hackmd.io/_uploads/Hyoj7Nv90.png)
-Jetson Nano 4GB
-
-![image](https://hackmd.io/_uploads/rJwGWVPq0.png)
-Jetson audio card
-
-![image](https://hackmd.io/_uploads/H1oYbNv50.png)
-USB轉音訊模組免驅音效卡
-
 ## Demo Video on Youtube
 Full project:
-https://youtu.be/njIzLgYLK_Y?si=EH6p-7wpnfle2mgD
+https://youtu.be/njIzLgYLK_Y?si=EH6p-7wpnfle2mgD \
 SVM model Demo only:
 https://youtu.be/9p9VhpmyNac?si=4MXHjh-fC6NMxKo_
 
