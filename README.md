@@ -15,11 +15,11 @@ SVM model Demo only:
 https://youtu.be/9p9VhpmyNac?si=4MXHjh-fC6NMxKo_
 
 ## Prerequisite Software for Writing image on Jetson Nano
-BalenaEtcher
-https://etcher.balena.io/
-SD card formatter
-https://www.sdcard.org/downloads/formatter/
-Download image
+BalenaEtcher \
+https://etcher.balena.io/ \
+SD card formatter \
+https://www.sdcard.org/downloads/formatter/ \
+Download image \
 https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
 
 ## Docker Environment
@@ -50,13 +50,13 @@ Build Docker Environment:
 
 
 ## How to re-enter Docker Environment after exit
-`xhost +`
-`xhost +SI:localusr:root`
-`sudo docker restart <container_ID or name>`
-`sudo docker exec -it <container_ID or name>`
+`xhost +` \
+`xhost +SI:localusr:root` \
+`sudo docker restart <container_ID or name>` \
+`sudo docker exec -it <container_ID or name>` 
 
 ## 【Error】Encounter "cannot allocate memory in static TLS block"
-Run this command below:(replace the path below to your error path)
+Run this command below:(replace the path below to your error path) \
 `export LD_PRELOAD=<parent path to python3.6>/python3.6/site-packages/torch/lib/libgomp-d22c30c5.so.1`
 
 ## Project Detail
@@ -99,7 +99,7 @@ Tool: Google Colab Pro
 Reference:
 * Training Yolo using darknet \
 https://github.com/AlexeyAB/darknet \
-https://pjreddie.com/darknet/yolo/ \
+https://pjreddie.com/darknet/yolo/ 
 
 * Labeling Tool \
 https://github.com/HumanSignal/labelImg
