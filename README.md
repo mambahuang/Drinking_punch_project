@@ -91,7 +91,7 @@ Run this command below:(replace the path below to your error path) \
 
 ## Different models and methods I try before this final version
 Tool: Google Colab Pro
-* **Resnet18** and** Resnet50** with custom dataset
+* **Resnet18** and **Resnet50** with custom dataset
 * Custom **CNN** and custom dataset
 * **VGG19** with custom dataset
 * **Yolo v3** (darknet53.conv.74), **Yolo v4** (yolov4.conv.137) with labelImg(customize dataset and label it manually)
