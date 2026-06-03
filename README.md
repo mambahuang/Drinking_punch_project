@@ -2,7 +2,6 @@
 
 ## Devices needed
 * Jetson Nano 4GB
-* Jetson audio card
 * USB轉音訊模組免驅音效卡(適用於Jetson nano)
 * 2.4G Wifi 發射器
 * Logitech C270 Webcam
